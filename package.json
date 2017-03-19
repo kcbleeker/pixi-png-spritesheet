@@ -1,0 +1,28 @@
+{
+  "name": "pixi-png-spritesheet",
+  "version": "1.0.0",
+  "description": "PNG Spritesheet packer for pixijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcbleeker/pixi-png-spritesheet.git"
+  },
+  "keywords": [
+    "pixi",
+    "pixijs",
+    "spritesheet"
+  ],
+  "author": "Kevin Bleeker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcbleeker/pixi-png-spritesheet/issues"
+  },
+  "homepage": "https://github.com/kcbleeker/pixi-png-spritesheet#readme",
+  "dependencies": {
+    "image-size": "^0.5.0",
+    "images": "^3.0.0"
+  }
+}
